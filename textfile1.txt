@@ -1,0 +1,2 @@
+hi all
+this is adding the file in git hub
